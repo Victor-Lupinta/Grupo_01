@@ -6311,7 +6311,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 25
+  m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -6361,6 +6361,8 @@ MonoBehaviour:
   heartEmpty: {fileID: -4390673095631447188, guid: d9a616f95048ea84e8fc6f7920f846b8, type: 3}
   heartHalf: {fileID: 2139837793675082937, guid: d9a616f95048ea84e8fc6f7920f846b8, type: 3}
   goldText: {fileID: 685599833}
+  fadeScreen: {fileID: 0}
+  fadeSpeed: 2
 --- !u!114 &2139041675
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6373,7 +6375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc75b2277b56ad94a9a14c8eb8c5ae47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LevelSelect: Levelselect
+  LevelSelect: LevelSelect
   mainMenu: MainMenu
   pauseScreen: {fileID: 2041996597}
   isPaused: 0
