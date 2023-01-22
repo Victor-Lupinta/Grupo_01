@@ -116,4 +116,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isGold: 1
   isHeal: 0
-  pickupEffect: {fileID: 0}
+  pickupEffect: {fileID: 3217034967702246498, guid: 70b1d4261a578794b8f12052bdf0e321, type: 3}

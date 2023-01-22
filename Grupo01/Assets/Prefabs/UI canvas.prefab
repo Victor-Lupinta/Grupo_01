@@ -45,7 +45,7 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 832704689}
-  m_CullTransparentMesh: 1
+  m_CullTransparentMesh: 0
 --- !u!114 &832704691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -520,6 +520,7 @@ MonoBehaviour:
   goldText: {fileID: 6759642430468492720}
   fadeScreen: {fileID: 832704691}
   fadeSpeed: 2
+  levelCompleteText: {fileID: 2082928274}
 --- !u!114 &6759642429098937954
 MonoBehaviour:
   m_ObjectHideFlags: 0

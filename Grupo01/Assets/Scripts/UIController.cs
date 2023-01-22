@@ -18,6 +18,8 @@ public class UIController : MonoBehaviour
     public Image fadeScreen;
     public float fadeSpeed;
     private bool shouldFadeToBlack, shouldFadeFromBlack;
+
+    public GameObject levelCompleteText;
         
     private void Awake()
     {
@@ -27,7 +29,7 @@ public class UIController : MonoBehaviour
     void Start()
     {
         UpdateGoldCount();
-        fadeFromBlack();
+        FadeFromBlack();
     }
 
     // Update is called once per frame
@@ -119,12 +121,12 @@ public class UIController : MonoBehaviour
         goldText.text = LevelManager.instance.goldCollected.ToString();
     }
 
-    public void fadeToBlack()
+    public void FadeToBlack()
     {
         shouldFadeToBlack = true;
         shouldFadeFromBlack = false;
     }
-    public void fadeFromBlack()
+    public void FadeFromBlack()
     {
         shouldFadeFromBlack = true;
         shouldFadeToBlack = false;
