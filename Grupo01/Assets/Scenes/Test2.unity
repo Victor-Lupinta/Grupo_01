@@ -4935,8 +4935,12 @@ PrefabInstance:
       value: UI canvas
       objectReference: {fileID: 0}
     - target: {fileID: 6759642429144466652, guid: 44fef1ffcd177a3499376dba26270fbb, type: 3}
+      propertyPath: m_Name
+      value: Pause Screen
+      objectReference: {fileID: 0}
+    - target: {fileID: 6759642429144466652, guid: 44fef1ffcd177a3499376dba26270fbb, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6759642429171358392, guid: 44fef1ffcd177a3499376dba26270fbb, type: 3}
       propertyPath: m_Text
@@ -4967,9 +4971,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4010633455985385541, guid: 58a5ee97baf98384f81c8a162afe3581, type: 3}
+      propertyPath: m_Name
+      value: Aguila
+      objectReference: {fileID: 0}
+    - target: {fileID: 4010633456024702388, guid: 58a5ee97baf98384f81c8a162afe3581, type: 3}
+      propertyPath: m_Name
+      value: Punto
+      objectReference: {fileID: 0}
+    - target: {fileID: 4010633456817861089, guid: 58a5ee97baf98384f81c8a162afe3581, type: 3}
+      propertyPath: m_Name
+      value: Punto1
+      objectReference: {fileID: 0}
     - target: {fileID: 4010633456959853464, guid: 58a5ee97baf98384f81c8a162afe3581, type: 3}
       propertyPath: m_Name
-      value: enemyaguila
+      value: Enemy Aguila
       objectReference: {fileID: 0}
     - target: {fileID: 4010633456959853466, guid: 58a5ee97baf98384f81c8a162afe3581, type: 3}
       propertyPath: m_RootOrder
@@ -5014,6 +5030,10 @@ PrefabInstance:
     - target: {fileID: 4010633456959853466, guid: 58a5ee97baf98384f81c8a162afe3581, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4010633456959853467, guid: 58a5ee97baf98384f81c8a162afe3581, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 58a5ee97baf98384f81c8a162afe3581, type: 3}

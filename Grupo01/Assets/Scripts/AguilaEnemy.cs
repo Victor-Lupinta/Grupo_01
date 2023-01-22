@@ -4,7 +4,7 @@ using UnityEngine;
 
 
 
-public class AGUILAENEMY : MonoBehaviour
+public class AguilaEnemy : MonoBehaviour
 {
 
     public Transform[] Points;
