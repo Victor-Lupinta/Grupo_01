@@ -18,7 +18,7 @@ public class AGUILAENEMY : MonoBehaviour
 
     private Vector3 Attacktarget;
 
-    private bool hasAttacked;
+    private bool HasAttacked;
     public float waitAfterAttack;
      float attackCounter;
 
@@ -82,7 +82,7 @@ public class AGUILAENEMY : MonoBehaviour
             transform.position = Vector3.MoveTowards(transform.position, Attacktarget, chaseSpeed * Time.deltaTime);
             if(Vector3.Distance(transform.position, Attacktarget) <= .1f)
             {
-                hasAttacked = true;
+                HasAttacked = true;
                 attackCounter = waitAfterAttack;
                 Attacktarget = Vector3.zero;
             }
