@@ -79,6 +79,7 @@ public class EnemyController : MonoBehaviour
                 moveCount = Random.Range(waitTime * .75f, moveTime * 1.25f);
             }
             anim.SetBool("isMoving", false);
+            
         }
         
     }
