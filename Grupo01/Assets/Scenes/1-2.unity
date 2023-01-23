@@ -3029,6 +3029,14 @@ PrefabInstance:
       propertyPath: checkpoints.Array.data[0]
       value: 
       objectReference: {fileID: 787406624}
+    - target: {fileID: 2976957433640615907, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
+      propertyPath: levelToLoad
+      value: LevelSelect
+      objectReference: {fileID: 0}
+    - target: {fileID: 2976957433798495953, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7844945264271547244, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
       propertyPath: m_RootOrder
       value: 1
