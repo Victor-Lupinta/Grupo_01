@@ -138,6 +138,38 @@ PrefabInstance:
       propertyPath: left
       value: 
       objectReference: {fileID: 367726275}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (5)
@@ -219,6 +251,38 @@ PrefabInstance:
       propertyPath: right
       value: 
       objectReference: {fileID: 367726275}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (3)
@@ -300,6 +364,38 @@ PrefabInstance:
       propertyPath: right
       value: 
       objectReference: {fileID: 957724076}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (6)
@@ -434,6 +530,82 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &142679781
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 142679782}
+  - component: {fileID: 142679784}
+  - component: {fileID: 142679783}
+  m_Layer: 5
+  m_Name: Time
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &142679782
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 142679781}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.925, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 799208497}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 130.02039, y: 6.5938034}
+  m_SizeDelta: {x: 88.2906, y: 97.941}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &142679783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 142679781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 8672254683683649150, guid: c77131ed7a3e39842b182247171f6b28, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &142679784
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 142679781}
+  m_CullTransparentMesh: 1
 --- !u!1 &186073012
 GameObject:
   m_ObjectHideFlags: 0
@@ -489,6 +661,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1400732323}
     m_Modifications:
+    - target: {fileID: 925002412405943583, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: left
       value: 
@@ -498,24 +674,24 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 15129563}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
-      propertyPath: isLevel
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
-      propertyPath: isLocked
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
-      propertyPath: levelName
-      value: 'Level 2 : La gran caceria'
-      objectReference: {fileID: 0}
-    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
-      propertyPath: levelToLoad
-      value: 1-2
+      propertyPath: bestTime
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: levelToCheck
       value: 1-1
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldCollected
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2988345447263322523, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095947871081113979, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
@@ -565,6 +741,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6018445490804758075, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674305831027735151, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6921458139949902218, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
 --- !u!4 &367726274 stripped
@@ -596,7 +784,7 @@ GameObject:
   - component: {fileID: 382532987}
   - component: {fileID: 382532988}
   m_Layer: 5
-  m_Name: 'Text '
+  m_Name: Level Name Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -635,7 +823,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'LEVEL NAME GOES HERE '
+  m_Text: 'Level 2 : La gran caceria'
 --- !u!114 &382532988
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -676,9 +864,105 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3.9229, y: 17.6529}
-  m_SizeDelta: {x: 1215.9814, y: 108.6943}
+  m_AnchoredPosition: {x: 8.0229, y: 100}
+  m_SizeDelta: {x: 818.7, y: 96.2169}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &482361651
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 482361652}
+  - component: {fileID: 482361654}
+  - component: {fileID: 482361655}
+  - component: {fileID: 482361653}
+  m_Layer: 5
+  m_Name: Gold in Level Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &482361652
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 482361651}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 799208497}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -273.03833, y: -48.552795}
+  m_SizeDelta: {x: 249.6926, y: 45.9752}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &482361653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 482361651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 1, g: 1, b: 1, a: 0.5}
+  m_EffectDistance: {x: 2, y: 2}
+  m_UseGraphicAlpha: 1
+--- !u!222 &482361654
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 482361651}
+  m_CullTransparentMesh: 1
+--- !u!114 &482361655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 482361651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: b2fd7055df9d28d4e9e51ad10766889f, type: 3}
+    m_FontSize: 45
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 4
+    m_MaxSize: 45
+    m_Alignment: 3
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'EN NIVEL: 999'
 --- !u!1001 &557221321
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -694,6 +978,38 @@ PrefabInstance:
       propertyPath: right
       value: 
       objectReference: {fileID: 1267325626}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (8)
@@ -775,6 +1091,38 @@ PrefabInstance:
       propertyPath: left
       value: 
       objectReference: {fileID: 851791836}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (12)
@@ -877,6 +1225,10 @@ MonoBehaviour:
   fadeSpeed: 1
   levelInfoPanel: {fileID: 799208496}
   levelName: {fileID: 382532987}
+  goldFound: {fileID: 715958789}
+  goldTarget: {fileID: 482361655}
+  bestTime: {fileID: 1171153548}
+  timeTarget: {fileID: 1106532289}
 --- !u!114 &663739139
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -960,6 +1312,178 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &715958785
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 715958786}
+  - component: {fileID: 715958788}
+  - component: {fileID: 715958789}
+  - component: {fileID: 715958787}
+  m_Layer: 5
+  m_Name: Gold found text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &715958786
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 715958785}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 799208497}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -273.03833, y: 7.2948036}
+  m_SizeDelta: {x: 249.6926, y: 45.9752}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &715958787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 715958785}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 1, g: 1, b: 1, a: 0.5}
+  m_EffectDistance: {x: 2, y: 2}
+  m_UseGraphicAlpha: 1
+--- !u!222 &715958788
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 715958785}
+  m_CullTransparentMesh: 1
+--- !u!114 &715958789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 715958785}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: b2fd7055df9d28d4e9e51ad10766889f, type: 3}
+    m_FontSize: 45
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 45
+    m_Alignment: 3
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'OBTENIDAS: 0'
+--- !u!1 &718991239
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 718991240}
+  - component: {fileID: 718991242}
+  - component: {fileID: 718991241}
+  m_Layer: 5
+  m_Name: Gold
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &718991240
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718991239}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.925, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 799208497}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -455.1048, y: 9.67112}
+  m_SizeDelta: {x: 90.117, y: 104.5947}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &718991241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718991239}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 5596c86d94c5fb643b811d08c17b9b20, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &718991242
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718991239}
+  m_CullTransparentMesh: 1
 --- !u!1 &799208496
 GameObject:
   m_ObjectHideFlags: 0
@@ -991,13 +1515,21 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 382532990}
+  - {fileID: 718991240}
+  - {fileID: 715958786}
+  - {fileID: 482361652}
+  - {fileID: 1797784163}
+  - {fileID: 142679782}
+  - {fileID: 1171153545}
+  - {fileID: 1106532292}
+  - {fileID: 1959815670}
   m_Father: {fileID: 663739142}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0, y: -410}
-  m_SizeDelta: {x: -597.5497, y: -856.1907}
+  m_AnchoredPosition: {x: -5.7175903, y: -395.6787}
+  m_SizeDelta: {x: -373.8384, y: -773.3677}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &799208498
 MonoBehaviour:
@@ -1052,6 +1584,38 @@ PrefabInstance:
       propertyPath: right
       value: 
       objectReference: {fileID: 1156616444}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (16)
@@ -1125,6 +1689,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1400732323}
     m_Modifications:
+    - target: {fileID: 925002412405943583, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: left
       value: 
@@ -1142,12 +1710,24 @@ PrefabInstance:
       value: La aldea de Jazmanny
       objectReference: {fileID: 0}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: levelToLoad
       value: 1-3
       objectReference: {fileID: 0}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: levelToCheck
       value: 1-2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2988345447263322523, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095947871081113979, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
@@ -1197,6 +1777,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6018445490804758075, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6674305831027735151, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 6921458139949902218, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 6921458139949902218, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.34
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
 --- !u!4 &851791835 stripped
@@ -1230,6 +1826,38 @@ PrefabInstance:
       propertyPath: left
       value: 
       objectReference: {fileID: 88051166}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (7)
@@ -1311,6 +1939,38 @@ PrefabInstance:
       propertyPath: left
       value: 
       objectReference: {fileID: 2145929392}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (14)
@@ -1377,6 +2037,102 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc5179afa268a4e4185a712ceef6d889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1106532288
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1106532292}
+  - component: {fileID: 1106532291}
+  - component: {fileID: 1106532289}
+  - component: {fileID: 1106532290}
+  m_Layer: 5
+  m_Name: Time Target
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1106532289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1106532288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: b2fd7055df9d28d4e9e51ad10766889f, type: 3}
+    m_FontSize: 45
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 4
+    m_MaxSize: 45
+    m_Alignment: 3
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'TIEMPO MAXIMO: 0'
+--- !u!114 &1106532290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1106532288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 1, g: 1, b: 1, a: 0.5}
+  m_EffectDistance: {x: 2, y: 2}
+  m_UseGraphicAlpha: 1
+--- !u!222 &1106532291
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1106532288}
+  m_CullTransparentMesh: 1
+--- !u!224 &1106532292
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1106532288}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 799208497}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 386.27, y: -48.553}
+  m_SizeDelta: {x: 370.23, y: 45.975}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1138047775
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1392,6 +2148,38 @@ PrefabInstance:
       propertyPath: left
       value: 
       objectReference: {fileID: 1625350221}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (18)
@@ -1518,6 +2306,38 @@ PrefabInstance:
       propertyPath: left
       value: 
       objectReference: {fileID: 851304482}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (17)
@@ -1584,6 +2404,102 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc5179afa268a4e4185a712ceef6d889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1171153544
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1171153545}
+  - component: {fileID: 1171153547}
+  - component: {fileID: 1171153548}
+  - component: {fileID: 1171153546}
+  m_Layer: 5
+  m_Name: Time Best
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1171153545
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171153544}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 799208497}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 386.27072, y: 7.2947}
+  m_SizeDelta: {x: 370.2341, y: 45.975}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1171153546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171153544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 1, g: 1, b: 1, a: 0.5}
+  m_EffectDistance: {x: 2, y: 2}
+  m_UseGraphicAlpha: 1
+--- !u!222 &1171153547
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171153544}
+  m_CullTransparentMesh: 1
+--- !u!114 &1171153548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171153544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: b2fd7055df9d28d4e9e51ad10766889f, type: 3}
+    m_FontSize: 45
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 45
+    m_Alignment: 3
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'MEJOR TIEMPO: 0'
 --- !u!1001 &1267325624
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1599,6 +2515,38 @@ PrefabInstance:
       propertyPath: left
       value: 
       objectReference: {fileID: 557221323}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (9)
@@ -1680,6 +2628,38 @@ PrefabInstance:
       propertyPath: right
       value: 
       objectReference: {fileID: 2028961212}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (1)
@@ -1816,6 +2796,22 @@ PrefabInstance:
       propertyPath: isLevel
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 1-4
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 1-3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095947871081113979, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point 1-4
@@ -1862,6 +2858,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4688301370332871377, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6018445490804758075, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingOrder
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -3279,6 +4279,22 @@ PrefabInstance:
       propertyPath: isLevel
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 1-5
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 1-4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095947871081113979, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point 1-5
@@ -3325,6 +4341,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4688301370332871377, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6018445490804758075, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingOrder
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -5301,6 +6321,102 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1797784162
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1797784163}
+  - component: {fileID: 1797784166}
+  - component: {fileID: 1797784165}
+  - component: {fileID: 1797784164}
+  m_Layer: 5
+  m_Name: Gold Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1797784163
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1797784162}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 799208497}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -453, y: -64}
+  m_SizeDelta: {x: 76.0827, y: 37.9425}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1797784164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1797784162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 1, g: 1, b: 1, a: 0.5}
+  m_EffectDistance: {x: 2, y: 2}
+  m_UseGraphicAlpha: 1
+--- !u!114 &1797784165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1797784162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: b2fd7055df9d28d4e9e51ad10766889f, type: 3}
+    m_FontSize: 46
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 49
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: ORO
+--- !u!222 &1797784166
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1797784162}
+  m_CullTransparentMesh: 1
 --- !u!1 &1837458463
 GameObject:
   m_ObjectHideFlags: 0
@@ -6101,8 +7217,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 432636535
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 3974224528455760076, guid: 9b7e8d8d6e9ac904dba7f59ba8b11835, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -6146,6 +7262,102 @@ MonoBehaviour:
   moveSpeed: 10
   levelLoading: 0
   theManager: {fileID: 1150652344}
+--- !u!1 &1959815669
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1959815670}
+  - component: {fileID: 1959815673}
+  - component: {fileID: 1959815672}
+  - component: {fileID: 1959815671}
+  m_Layer: 5
+  m_Name: Time Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1959815670
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1959815669}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 799208497}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 126.96, y: -64}
+  m_SizeDelta: {x: 122.38, y: 37.943}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1959815671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1959815669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 1, g: 1, b: 1, a: 0.5}
+  m_EffectDistance: {x: 2, y: 2}
+  m_UseGraphicAlpha: 1
+--- !u!114 &1959815672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1959815669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: b2fd7055df9d28d4e9e51ad10766889f, type: 3}
+    m_FontSize: 46
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 49
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: TIEMPO
+--- !u!222 &1959815673
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1959815669}
+  m_CullTransparentMesh: 1
 --- !u!1001 &1989755389
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6161,6 +7373,38 @@ PrefabInstance:
       propertyPath: right
       value: 
       objectReference: {fileID: 851791836}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (10)
@@ -6318,6 +7562,38 @@ PrefabInstance:
       propertyPath: left
       value: 
       objectReference: {fileID: 1323387247}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (2)
@@ -6399,6 +7675,38 @@ PrefabInstance:
       propertyPath: right
       value: 
       objectReference: {fileID: 1063221505}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: isLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToLoad
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
       value: Map Point (13)
@@ -6556,29 +7864,61 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1400732323}
     m_Modifications:
+    - target: {fileID: 925002412405943583, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: up
       value: 
       objectReference: {fileID: 1323387247}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
-      propertyPath: isLevel
-      value: 1
+      propertyPath: bestTime
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
-      propertyPath: isLocked
-      value: 0
-      objectReference: {fileID: 0}
+      propertyPath: goldBadge
+      value: 
+      objectReference: {fileID: 6307160357198909314}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: levelName
-      value: 'Level 1 : El Toro Malo'
+      value: 'Level 1: El Toro Malo'
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: timeBadge
+      value: 
+      objectReference: {fileID: 6307160357198909313}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: totalGold
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: targetTime
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: levelToLoad
       value: 1-1
       objectReference: {fileID: 0}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
-      propertyPath: levelToCheck
-      value: 1-1
+      propertyPath: goldCollected
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2988345447263322523, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095947871081113979, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095947871081113979, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095947871081113979, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 432636535
       objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
@@ -6628,6 +7968,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6018445490804758075, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6018445490804758075, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6018445490804758075, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 432636535
+      objectReference: {fileID: 0}
+    - target: {fileID: 6921458139949902218, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 6921458139949902218, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.34
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
 --- !u!4 &6307160357198909311 stripped
@@ -6646,3 +8006,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc5179afa268a4e4185a712ceef6d889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &6307160357198909313 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 925002412405943583, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+  m_PrefabInstance: {fileID: 6307160357198909310}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6307160357198909314 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2988345447263322523, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+  m_PrefabInstance: {fileID: 6307160357198909310}
+  m_PrefabAsset: {fileID: 0}

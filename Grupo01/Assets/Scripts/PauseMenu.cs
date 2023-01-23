@@ -8,7 +8,7 @@ public class PauseMenu : MonoBehaviour
 {
     public static PauseMenu instance;
 
-    public string LevelSelect, mainMenu;
+    public string levelSelect, mainMenu;
 
     public GameObject pauseScreen;
     public bool isPaused;
@@ -44,9 +44,11 @@ public class PauseMenu : MonoBehaviour
         }
     }
 
-    public void levelSelect()
+    public void LevelSelect()
     {
-        SceneManager.LoadScene(LevelSelect);
+        PlayerPrefs.SetString("CurrentLevel", SceneManager.GetActiveScene().name);
+
+        SceneManager.LoadScene(levelSelect);
         Time.timeScale = 1f;
     }
 

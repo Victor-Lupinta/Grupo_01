@@ -12,7 +12,7 @@ public class LSUIManager : MonoBehaviour
 
     public GameObject levelInfoPanel;
 
-    public Text levelName;
+    public Text levelName, goldFound, goldTarget, bestTime, timeTarget;
 
     // Start is called before the first frame update
     void Awake()
@@ -61,7 +61,21 @@ public class LSUIManager : MonoBehaviour
     public void ShowInfo(MapPoint levelInfo)
     {
         levelName.text = levelInfo.levelName;
-        
+
+        goldFound.text = "OBTENIDAS: " + levelInfo.goldCollected;
+        goldTarget.text = "EN NIVEL: " + levelInfo.totalGold;
+
+        timeTarget.text = "TIEMPO MAXIMO: " + levelInfo.targetTime + "s";
+
+        if (levelInfo.bestTime == 0)
+        {
+            bestTime.text = "MEJOR TIEMPO: ---";
+        }
+        else
+        {
+            bestTime.text = "MEJOR TIEMPO: " + levelInfo.bestTime.ToString("F2") + "s";
+        }
+
         levelInfoPanel.SetActive(true);
     }
 
