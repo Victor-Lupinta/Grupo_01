@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 13333
+  controlID: 58344
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -760,23 +760,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e4240100
-      m_LastClickedID: 74980
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 78c1feffe0c2feff5ed4feffd0d4feff4ed5feff9021ffff9e21ffff0022ffff3422ffff6022ffffbc24ffffe626ffff0254ffff2254ffff2a54ffffae59ffff2afbffff8860000094600000d260000082b10000ccb100001eb2000018d60000ca240100e4240100f02401000a250100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: UI canvas
-        m_OriginalName: UI canvas
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -76706
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -869,7 +869,7 @@ MonoBehaviour:
     m_SaveData: []
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -94418
+  m_LastSelectedObjectID: 74980
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1129,7 +1129,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 28650000
     m_LastClickedID: 25896
-    m_ExpandedIDs: 0000000000650000026500000465000006650000086500000a6500000c6500000e650000106500001c65000000ca9a3b
+    m_ExpandedIDs: 0000000000650000026500000465000006650000086500000a6500000c6500000e6500001065000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1182,9 +1182,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: e4240100
-    m_LastClickedInstanceID: 74980
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300000a6d0000b66a00005e7500006e910000c079000060830000b6730000e87700007069000012600000ba720000b26e0000e88700005294000040720000fe850000547b00000e940000e8790000b46400002a800000b07e0000f8820000fe640000b4610000e2720000fc6e000098740000da670000c0610000da81000074650000b4900000fe61000000000000a6670000b0660000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
