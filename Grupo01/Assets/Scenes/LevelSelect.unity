@@ -1138,8 +1138,16 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelName
+      value: La aldea de Jazmanny
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: levelToLoad
-      value: LevelSelect
+      value: 1-3
+      objectReference: {fileID: 0}
+    - target: {fileID: 945579090506713991, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
+      propertyPath: levelToCheck
+      value: 1-2
       objectReference: {fileID: 0}
     - target: {fileID: 3140640092016263956, guid: 0f3ff935a4a9c6740ae47c8c0ee272f2, type: 3}
       propertyPath: m_Name
