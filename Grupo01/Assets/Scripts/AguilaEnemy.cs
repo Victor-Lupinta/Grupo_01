@@ -7,28 +7,28 @@ using UnityEngine;
 public class AguilaEnemy : MonoBehaviour
 {
 
-    public Transform[] Points;
-    public float moveSpeead;
+    public Transform[] points;
+    public float moveSpeed;
     private int currentPoint;
 
 
     public SpriteRenderer theSR;
 
-    public float DistanceToAttackplayer, chaseSpeed;
+    public float distanceToAttackplayer, chaseSpeed;
 
-    private Vector3 Attacktarget;
+    private Vector3 attackTarget;
 
-    private bool HasAttacked;
+
     public float waitAfterAttack;
-     float attackCounter;
+    private float attackCounter;
 
     
     void Start() 
     
    {
-        for(int i = 0; i < Points.Length; i++)
+        for(int i = 0; i < points.Length; i++)
         {
-            Points[i].parent = null;
+            points[i].parent = null;
         }
      
     }
@@ -43,52 +43,54 @@ public class AguilaEnemy : MonoBehaviour
         }
         else
         {
-            if(Vector3.Distance(transform.position, PlayerController.instance.transform.position) > DistanceToAttackplayer)
-        {
-            transform.position = Vector3.MoveTowards(transform.position,Points[currentPoint].position, moveSpeead * Time.deltaTime);
-
-            if (Vector3.Distance(transform.position,Points[currentPoint].position) < .05)
+            if (Vector3.Distance(transform.position, PlayerController.instance.transform.position) > distanceToAttackplayer)
             {
-                
-                currentPoint++;
+                attackTarget = Vector3.zero;
 
-                if(currentPoint >= Points.Length)
+                transform.position = Vector3.MoveTowards(transform.position, points[currentPoint].position, moveSpeed * Time.deltaTime);
+
+                if (Vector3.Distance(transform.position, points[currentPoint].position) < .05)
                 {
-                currentPoint =0;
+
+                    currentPoint++;
+
+                    if (currentPoint >= points.Length)
+                    {
+                        currentPoint = 0;
+                    }
+
                 }
-            
-            }
 
-            if(transform.position.x < Points[currentPoint].position.x)
-            {
-                theSR.flipX = true;
-             
-            } 
-            else if(transform.position.x > Points[currentPoint].position.x)
-            {
-                theSR.flipX = false;
-            
-            
-            }
-     
-        }else
-        {
-            //atacando al jugador 
-            if(Attacktarget == Vector3.zero)
-            {
-                Attacktarget = PlayerController.instance.transform.position;
-            }
+                if (transform.position.x < points[currentPoint].position.x)
+                {
+                    theSR.flipX = true;
 
-            transform.position = Vector3.MoveTowards(transform.position, Attacktarget, chaseSpeed * Time.deltaTime);
-            if(Vector3.Distance(transform.position, Attacktarget) <= .1f)
-            {
-                HasAttacked = true;
-                attackCounter = waitAfterAttack;
-                Attacktarget = Vector3.zero;
-            }
+                }
+                else if (transform.position.x > points[currentPoint].position.x)
+                {
+                    theSR.flipX = false;
 
 
-        }
+                }
+
+            }
+            else
+            {
+                //atacando al jugador 
+                if (attackTarget == Vector3.zero)
+                {
+                    attackTarget = PlayerController.instance.transform.position;
+                }
+
+                transform.position = Vector3.MoveTowards(transform.position, attackTarget, chaseSpeed * Time.deltaTime);
+                if (Vector3.Distance(transform.position, attackTarget) <= .1f)
+                {
+                    attackCounter = waitAfterAttack;
+                    attackTarget = Vector3.zero;
+                }
+
+
+            }
 
         }
 
