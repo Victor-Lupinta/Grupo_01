@@ -52,7 +52,7 @@ MonoBehaviour:
   - {fileID: 1704929214867319159}
   - {fileID: 1704929213967112142}
   - {fileID: 1704929214053896398}
-  moveSpeed: 2
+  moveSpeed: 3
   currentPoint: 0
   platform: {fileID: 3865554670548433289}
 --- !u!1 &1704929213967112137
