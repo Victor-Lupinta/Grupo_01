@@ -52,3 +52,6 @@ TagManager:
   - name: Player
     uniqueID: 432636535
     locked: 0
+  - name: Medallas
+    uniqueID: 3821163347
+    locked: 0
