@@ -3919,6 +3919,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 981686173, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1244138621121029873, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
+      propertyPath: m_Size.y
+      value: 1.2579228
+      objectReference: {fileID: 0}
+    - target: {fileID: 1244138621121029873, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.17419714
+      objectReference: {fileID: 0}
     - target: {fileID: 2976957432000237090, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
@@ -3950,6 +3962,10 @@ PrefabInstance:
     - target: {fileID: 2976957432714377620, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 58
+      objectReference: {fileID: 0}
+    - target: {fileID: 2976957433087157689, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 2976957433088831960, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
       propertyPath: checkpoints.Array.data[0]
@@ -4006,6 +4022,10 @@ PrefabInstance:
     - target: {fileID: 6984503572473525275, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 56
+      objectReference: {fileID: 0}
+    - target: {fileID: 7174851436222796731, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7844945264271547244, guid: 96f11a95cd462994784a17feaa1646bd, type: 3}
       propertyPath: m_RootOrder
