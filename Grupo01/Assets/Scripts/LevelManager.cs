@@ -11,7 +11,6 @@ public class LevelManager : MonoBehaviour
     public float waitToRespawn;
 
     public int goldCollected;
-    public float timeInLevel;
 
     public string levelToLoad;
 
@@ -22,13 +21,13 @@ public class LevelManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        timeInLevel = 0f;
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        timeInLevel += Time.deltaTime; 
+        
     }
 
     public void RespawnPlayer()
@@ -80,24 +79,7 @@ public class LevelManager : MonoBehaviour
         PlayerPrefs.SetInt(SceneManager.GetActiveScene().name + "_unlocked", 1);
 
         PlayerPrefs.SetString("CurrentLevel", SceneManager.GetActiveScene().name);
-
-        if (PlayerPrefs.HasKey(SceneManager.GetActiveScene().name + "_gold"))
-        {
-            if(goldCollected > PlayerPrefs.GetInt(SceneManager.GetActiveScene().name + "_gold", goldCollected))
-            {
-                PlayerPrefs.SetInt(SceneManager.GetActiveScene().name + "_gold", goldCollected);
-            }
-        }
-
-        if (PlayerPrefs.HasKey(SceneManager.GetActiveScene().name + "_time"))
-        {
-            if (timeInLevel < PlayerPrefs.GetFloat(SceneManager.GetActiveScene().name + "_time", timeInLevel))
-            {
-                PlayerPrefs.SetFloat(SceneManager.GetActiveScene().name + "_time", timeInLevel);
-            }
-                
-        }
-
+      
         SceneManager.LoadScene(levelToLoad);
     }
 }
