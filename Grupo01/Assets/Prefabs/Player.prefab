@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 545359428585807112}
   - component: {fileID: 545359428585807126}
   - component: {fileID: 545359428585807113}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: HurtBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -199,8 +199,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 7.5
-  jumpForce: 5.5
-  bounceForce: 2
+  jumpForce: 6
+  bounceForce: 2.5
   theRB: {fileID: 4320608718953246486}
   anim: {fileID: 0}
   groundCheckpoint: {fileID: 307754656828778079}
