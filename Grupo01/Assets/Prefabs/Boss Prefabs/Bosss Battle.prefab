@@ -74,8 +74,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -911426067
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 748716624845556738, guid: 693315c69ea86c84382fcc341e6f4ee7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -132,7 +132,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9054750248885068008}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.24, y: 0, z: 0}
+  m_LocalPosition: {x: 0.42, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -189,18 +189,18 @@ MonoBehaviour:
   currentStates: 0
   theBoss: {fileID: 9054750248856538843}
   anim: {fileID: 9054750248856538820}
-  moveSpeed: 8
+  moveSpeed: 5
   leftPoint: {fileID: 9054750250314151138}
   rightPoint: {fileID: 9054750248885068009}
   mine: {fileID: 8251521489189076317, guid: ddfeedaf2da319744a39ca751380af5d, type: 3}
   minePoint: {fileID: 9054750250554256734}
-  timeBetweenMines: 2
+  timeBetweenMines: 1
   bullet: {fileID: 4489498920440138149, guid: f84c747b8139ad748ae2619e90124ee5, type: 3}
   firePoint: {fileID: 9054750250100960149}
-  timeBetweenShots: 1.5
+  timeBetweenShots: 1.2
   hurtTime: 1
   hitBox: {fileID: 9054750250536277429}
-  health: 3
+  health: 2
   explosion: {fileID: 5239712787767586394, guid: 2e5599da7378c0e47a0806d4114ae282, type: 3}
   winPlatform: {fileID: 0}
   shotSpeedUp: 1.2
@@ -260,7 +260,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9054750250314151137}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -15.34, y: 0, z: 0}
+  m_LocalPosition: {x: -12.78, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
