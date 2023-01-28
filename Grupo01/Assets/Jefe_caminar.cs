@@ -5,27 +5,27 @@ using UnityEngine;
 public class Jefe_caminar : StateMachineBehaviour
 {
     private Jefe jefe;
-    private  Rigidbody2D rb2D;
+    private Rigidbody2D rb2D;
     [SerializeField] private float velocidadMovimiento;
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
-    override public void onstateenter(animator animator, animatorstateinfo stateinfo, int layerindex)
+    override public void OnStateEnter(Animator animator, AnimatorStateInfo stateinfo, int layerindex)
     {
-       jefe = animator.Getcomponent<Jefe>();
-       rd2D = jefe.rd2D;
+        jefe = animator.GetComponent<Jefe>();
+        rb2D = jefe.rb2d;
 
-       jefe.MirarJugador();
+        jefe.MirarJugador();
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        rd2D.velocity = new Vector2(velocidadMovimiento, rb2D.velocity.y) * animatior.transform.right;
+        rb2D.velocity = new Vector2(velocidadMovimiento, rb2D.velocity.y) * animator.transform.right;
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        rb2D.velocity = new Vector2(0, rd2D.velocity.y)
+        rb2D.velocity = new Vector2(0, rb2D.velocity.y);
     }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class BarraDeVida : MonoBehaviour
 {
@@ -10,19 +11,15 @@ public class BarraDeVida : MonoBehaviour
         slider = GetComponent<Slider>();
     }
 
-    public void CambiarVidaMaxima(float vidaMaxima)
+    public void CambiarVidaActual(float vidaMaxima)
     {
         slider.maxValue = vidaMaxima;
     }
 
-    public void CambiarVidaMaxima(float cantidadVida)
-    {
-        slider.value = cantidadVida;
-    }
-
     public void InicializarBarraDeVida(float cantidadVida)
     {
-        CambiarVidaMaxima(cantidadVida);
-        CambiarVidaMaxima(cantidadVida);
+        CambiarVidaActual(cantidadVida);
+        CambiarVidaActual(cantidadVida);
     }
 }
+ 
