@@ -1967,10 +1967,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: panel opciones
       objectReference: {fileID: 0}
+    - target: {fileID: 7174851436203965581, guid: 91e50900f472cc44791818cb22ee97a7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7174851436203965583, guid: 91e50900f472cc44791818cb22ee97a7, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 497377506}
+    - target: {fileID: 7174851436473575936, guid: 91e50900f472cc44791818cb22ee97a7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7174851437148293446, guid: 91e50900f472cc44791818cb22ee97a7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7174851437301261409, guid: 91e50900f472cc44791818cb22ee97a7, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
