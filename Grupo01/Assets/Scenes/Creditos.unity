@@ -264,7 +264,7 @@ GameObject:
   - component: {fileID: 70535721}
   - component: {fileID: 70535720}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: WQ
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -387,8 +387,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -440.46045}
-  m_SizeDelta: {x: 699.99994, y: 1230.9208}
+  m_AnchoredPosition: {x: 0, y: -735.89}
+  m_SizeDelta: {x: 699.9999, y: 1821.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &83314018
 MonoBehaviour:
@@ -537,8 +537,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -440.46045}
-  m_SizeDelta: {x: 699.99994, y: 1230.9208}
+  m_AnchoredPosition: {x: 0, y: -735.89124}
+  m_SizeDelta: {x: 699.9999, y: 1821.7823}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1011852397
 MonoBehaviour:
@@ -575,7 +575,9 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "\n\n\n\nGame Director\nVictor Gabriel Lupinta Flores\n\nGame Programmer\nAaron
     Marquez Chilo\n\nGame Designer\nJasmani Robert Llerena Luque\nLuiggi Raul Calsina
-    Abrigo\n\nGame Manager\nHenry Angel Suarez Lazarte\n\nCreated by\nVulcanStudio\n\nOrganized
+    Abrigo\n\nGame Manager\nHenry Angel Suarez Lazarte\n\nGracias a ANSIMUZ por\nSunny
+    Land Pack\nMagic Cliffs Pack\nSunny Land Forest Pack\nWarped Caves Pack\n\nGracias
+    a DEEPZONE por\nPSD Logo Templates\n\nCreated by\nGroupOneStudio\n\nOrganized
     by \n SENATI\t\n\n\n"
 --- !u!222 &1011852398
 CanvasRenderer:
@@ -633,7 +635,7 @@ VideoPlayer:
   m_ControlledAudioTrackCount: 1
   m_PlayOnAwake: 1
   m_SkipOnDrop: 1
-  m_Looping: 0
+  m_Looping: 1
   m_WaitForFirstFrame: 1
   m_FrameReadyEventEnabled: 0
   m_VideoShaders: []

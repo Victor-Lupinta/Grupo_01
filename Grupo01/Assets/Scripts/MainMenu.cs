@@ -19,19 +19,22 @@ public class MainMenu : MonoBehaviour
         {
             continueButton.SetActive(false);
         }
+        
     }
 
     public void StarGame()
     {
         SceneManager.LoadScene(starScene);
-
+        
         PlayerPrefs.DeleteAll();
     }
 
+
     public void ContinueGame()
     {
-        SceneManager.LoadScene(continueScene);
+        SceneManager.LoadScene(continueScene);   
     }
+    
 
     public void QuitGame()
     {

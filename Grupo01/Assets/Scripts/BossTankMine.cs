@@ -26,6 +26,7 @@ public class BossTankMine : MonoBehaviour
 
             PlayerHealthController.instance.DealDamage();
         }
+        
     }
 
     public void Explode()
@@ -33,5 +34,7 @@ public class BossTankMine : MonoBehaviour
         Destroy(gameObject);
 
         Instantiate(explosion, transform.position, transform.rotation);
+
+        AudioManager.instance.PlaySFX(1);
     }
 }

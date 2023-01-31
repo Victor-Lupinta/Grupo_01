@@ -7,7 +7,7 @@ public class Creditos : MonoBehaviour
     
     void Start()
     {
-        Invoke("WaitToEnd",20);
+        Invoke("WaitToEnd",45);
     }
 
         
