@@ -14,6 +14,7 @@ public class Checkpoint : MonoBehaviour
         {
             CheckpointController.instance.DeactivateCheckpoints(); 
             theSR.sprite = cpOn;
+            AudioManager.instance.PlaySFX(15);
 
             CheckpointController.instance.SetSpawnPoint(transform.position);   
         }
