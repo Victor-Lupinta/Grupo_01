@@ -378,7 +378,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 6759642429098937954}
         m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
-        m_MethodName: levelSelect
+        m_MethodName: LevelSelect
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -533,7 +533,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc75b2277b56ad94a9a14c8eb8c5ae47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LevelSelect: Levelselect
+  levelSelect: LevelSelect
   mainMenu: MainMenu
   pauseScreen: {fileID: 6759642429144466652}
   isPaused: 0
@@ -1577,7 +1577,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 999
+  m_Text: 0
 --- !u!114 &6759642430468492722
 MonoBehaviour:
   m_ObjectHideFlags: 0
