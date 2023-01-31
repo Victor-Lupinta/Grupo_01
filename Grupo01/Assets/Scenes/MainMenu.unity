@@ -2121,6 +2121,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1825962304}
     m_Modifications:
     - target: {fileID: 4766186528094739041, guid: 9950e89efd847134f9ff9323e0e16ba5, type: 3}
+      propertyPath: m_text
+      value: LAS AVENTURAS DE JAZMANI
+      objectReference: {fileID: 0}
+    - target: {fileID: 4766186528094739041, guid: 9950e89efd847134f9ff9323e0e16ba5, type: 3}
       propertyPath: m_fontColorGradient.topLeft.b
       value: 0.047399584
       objectReference: {fileID: 0}
