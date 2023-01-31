@@ -15,13 +15,15 @@ public class Switch : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        theSR = GetComponent<SpriteRenderer>(); 
+        theSR = GetComponent<SpriteRenderer>();
+        
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player" && !hasSwitched)
         {
+            AudioManager.instance.PlaySFX(13);
             if (deactivateOnSwitch)
             {
                 objectToSwitch.SetActive(false);
@@ -35,5 +37,6 @@ public class Switch : MonoBehaviour
             hasSwitched = true;
         }
         
+
     }
 }

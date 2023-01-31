@@ -60,6 +60,8 @@ public class LSPlayer : MonoBehaviour
                     levelLoading = true;
 
                     theManager.LoadLevel();
+
+                    AudioManager.instance.PlaySFX(14);
                 }
             }
         }

@@ -8,7 +8,7 @@ public class AudioManager : MonoBehaviour
 
     public AudioSource[] soundEffects;
 
-    public AudioSource bgm, levelEndMusic, bossMusic;
+    public AudioSource bgm, levelEndMusic, bossMusic, mainMenu, levelSelect;
     // Start is called before the first frame update
     private void Awake()
     {

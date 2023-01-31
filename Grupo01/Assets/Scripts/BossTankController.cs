@@ -50,16 +50,19 @@ public class BossTankController : MonoBehaviour
         switch (currentStates)
         {
             case bossStates.shooting:
-
+                
                 shotCounter -= Time.deltaTime;
-
+                
                 if (shotCounter <= 0)
                 {
                     shotCounter = timeBetweenShots;
-
+                    
                     var newBullet = Instantiate(bullet, firePoint.position, firePoint.rotation);
                     newBullet.transform.localScale = theBoss.localScale;
+
+                    AudioManager.instance.PlaySFX(2);
                 }
+                
 
                 break;
 
@@ -139,6 +142,8 @@ public class BossTankController : MonoBehaviour
         hurtCounter = hurtTime;
 
         anim.SetTrigger("Hit");
+
+        AudioManager.instance.PlaySFX(0);
 
         BossTankMine[] mines = FindObjectsOfType<BossTankMine>();
         if (mines.Length > 0)
